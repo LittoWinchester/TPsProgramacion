@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SZ/873J3OP77U7JJWCRR6VAQ0.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2O/77QHKHRZD4EW3MCRDQMU2W.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LU/L7XDR2IM0VW9XT29BANCVA.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/P8/0N2B1VV8EXIKX1UU074T4U.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WI/NUH7RSNHXX2X642GSBL4TA.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4E/I5I9665ACHNC4XUCDZLD80.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6O/RJ4JRMVYPWLFSY7TGYHDEG.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LU/NV2LQS3BNCNIVN6QWISAVD.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YY/ZO39VN71LXM1JTH4WZWSJK.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/F1/44ILP6SUXU2FPYAA72XYNU.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/JN/BXFFANSB4O6YR00IOPMGFR.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2F/QH65UG86UZ6VLY44FZPH0C.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ZS/LFTNNL7EZE0P6Y52LNNX7F.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/9Y/8HL1FR0AC8ACOCFZ203349.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FY/OC6KZCQA8VWRFJM7D9GI65.uasset",
+				"D:/UnrealEngine/TP_2008/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EC/G4LR0TVJK4F5S3GG7YIBSW.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/WBP_Interfaz.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/WBP_Health.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/Blueprints/BP_ActorBase.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/Blueprints/BP_damageActor.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/Blueprints/BPI_Interact.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/Blueprints/BP_recogible.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/Blueprints/WBP_INVENTARIO.uasset",
+				"D:/UnrealEngine/TP_2008/Content/ThirdPerson/Blueprints/Component.uasset"
+			]
+		}
+	]
+}
